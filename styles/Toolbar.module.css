@@ -1,0 +1,19 @@
+.main {
+  margin: auto;
+  width: 750px;
+  display: flex;
+  max-width: 100%;
+  color: #fff;
+  margin-bottom: 50px;
+  justify-content: center;
+  background-color: #7c83ff;
+  border-radius: 0px 0px 5px 5px;
+}
+.main div {
+  margin: 25px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.main div:hover {
+  transform: scale(1.5);
+}
