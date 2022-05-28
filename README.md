@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 It's in the context of the [Kisi](https://www.getkisi.com/) technical task for the JavaScript Engineer position.
 I created a blog app with [Next.js](https://nextjs.org/).
 This app fetches posts from a remote [Sanity](https://www.sanity.io/) server.
+Visit [Kisi Sanity Blog](https://kisi-blog.netlify.app/).
 
 ## Getting Started
 
